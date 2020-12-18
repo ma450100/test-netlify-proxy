@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "https://postman-echo.com"
   status = 200
   force = true
