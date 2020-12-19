@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://sandbox.dtaylor.uk/:splat"
+  to = "https://www.hostloc.com/:splat"
   status = 200
   force = true
   headers = {Host = "postman-echo.com"}
