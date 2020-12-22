@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://a.24.2211.eu.org/index.php:splat"
+  to = "https://www.884466.xyz/index.php:splat"
   status = 200
   force = true
   headers = {Host = "postman-echo.com"}
