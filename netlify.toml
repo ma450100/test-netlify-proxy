@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://goproxy-vercel-1.vercel.app/index.js:splat"
+  to = "https://24.2211.eu.org/:splat"
   status = 200
   force = true
   headers = {Host = "postman-echo.com"}
