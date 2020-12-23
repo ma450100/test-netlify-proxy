@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://heroku-goproxy-1.simajianlin.workers.dev/:splat"
+  to = "https://edu.884466.xyz/:splat"
   status = 200
   force = true
   headers = {Host = "postman-echo.com"}
